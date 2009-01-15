@@ -32,7 +32,7 @@ We'll love you forever, and totally pimp your site and your skills.
 
 ## CSSHttpRequest Info
 
-### Please see the latest info at [http://nb.io/hacks/csshttprequest/]()
+### Please see the latest info at [http://nb.io/hacks/csshttprequest/](http://nb.io/hacks/csshttprequest/)
 
 Like JavaScript includes, this works because CSS is not subject to the
 same-origin policy that affects XMLHttpRequest. CSSHttpRequest functions
